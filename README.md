@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0859-buddy-strings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
