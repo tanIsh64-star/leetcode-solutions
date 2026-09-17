@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
