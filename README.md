@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3525-find-x-value-of-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3620-network-recovery-pathways) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3161-block-placement-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
