@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0859-buddy-strings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0859-buddy-strings) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0140-word-break-ii) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
 | ------- |
@@ -642,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0155-min-stack) |
+| [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
 | ------- |
