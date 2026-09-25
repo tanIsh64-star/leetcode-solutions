@@ -13,15 +13,12 @@ public:
             int row = mid / cols;
             int col = mid % cols;
 
-            if (matrix[row][col] == target) {
+            if (matrix[row][col] == target)
                 return true;
-            }
-            else if (matrix[row][col] < target) {
+            else if (matrix[row][col] < target)
                 left = mid + 1;
-            }
-            else {
+            else
                 right = mid - 1;
-            }
         }
 
         return false;
