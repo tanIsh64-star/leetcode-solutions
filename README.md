@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -919,4 +920,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
