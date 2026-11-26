@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3360-stone-removal-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
