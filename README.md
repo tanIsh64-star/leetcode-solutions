@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
