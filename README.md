@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0824-goat-latin](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0925-long-pressed-name) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## String Matching
 |  |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
