@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
