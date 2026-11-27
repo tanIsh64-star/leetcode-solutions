@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
