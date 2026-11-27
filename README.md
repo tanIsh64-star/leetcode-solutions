@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -949,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
