@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
