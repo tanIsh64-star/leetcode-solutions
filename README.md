@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1340-jump-game-v) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -890,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanIsh64-star/leetcode_solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
